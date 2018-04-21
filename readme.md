@@ -1,4 +1,4 @@
-Followring flask tutorial
+Following flask tutorial
 
 Useful commands:
 
